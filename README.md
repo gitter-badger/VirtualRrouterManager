@@ -2,7 +2,8 @@
 
 # Virtual Router Manager - Wifi Hot Spot for Windows XP, 7, 8 and 2008 R2
 
-[![Join the chat at https://gitter.im/VirtualRrouterManager/Lobby](https://badges.gitter.im/VirtualRrouterManager/Lobby.svg)](https://gitter.im/VirtualRrouterManager/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/denis-peshkov/VirtualRrouterManager.svg?branch=master)](https://travis-ci.org/denis-peshkov/VirtualRrouterManager)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denis-peshkov/VirtualRouterManager)
 
 ## Project Description
 
